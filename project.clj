@@ -1,4 +1,4 @@
-(defproject one-tenth/lein-template "0.2.7"
+(defproject one-tenth22/lein-template "0.2.7"
   :description "Template project by fdserr and guillaumeteillet for ClojureScript"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
